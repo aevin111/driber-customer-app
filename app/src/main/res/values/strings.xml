@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DriBer Android</string>
+    <string name="title_activity_service_type">ServiceType</string>
+    <string name="title_activity_choose_service_type">ChooseServiceType</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pick_service_type">PickServiceType</string>
+    <string name="title_activity_hire_driver">HireDriver</string>
+    <string name="title_activity_pickup_car">PickupCar</string>
+    <string name="title_activity_hired_driver_status">HiredDriverStatus</string>
+    <string name="title_activity_hire_driver_pick_date">HireDriverPickDate</string>
+    <string name="title_activity_hire_driver_pick_time">HireDriverPickTime</string>
+</resources>

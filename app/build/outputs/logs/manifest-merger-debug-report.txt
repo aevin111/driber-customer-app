@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:3:11-56
+		INJECTED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:5:5-7:34
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/squidward/.android/build-cache/56151bd9b439fb3cc975010a341c2274dca4de3a/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:6:9-41
+	android:required
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:7:9-32
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:11:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/squidward/.android/build-cache/56151bd9b439fb3cc975010a341c2274dca4de3a/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:12:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/squidward/.android/build-cache/56151bd9b439fb3cc975010a341c2274dca4de3a/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:12:22-76
+application
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:14:5-48:19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/squidward/.android/build-cache/8bdfd0c4769b105aee932afde8568aad449439ca/output/AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:design:25.1.1] /home/squidward/.android/build-cache/bcc6674c6011da088677a0826f6183f82676f975/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/squidward/.android/build-cache/8efb046c8bf3f54f77b0052f3c131302b739ee5e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/squidward/.android/build-cache/05e64810a126b4d24a10fb91ade34aba19c84fba/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/squidward/.android/build-cache/dc8282c7d95ff3105c6b7d32957247604db0f7a8/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] /home/squidward/.android/build-cache/96605d7129b13ec746903224fa8574d6d615edb6/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/squidward/.android/build-cache/204061d13753ed00968cc8c598a567c73a309ab7/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/squidward/.android/build-cache/56151bd9b439fb3cc975010a341c2274dca4de3a/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/squidward/.android/build-cache/47c489d873ef4c0a8e2ac2d55bbd885fecad2c30/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/squidward/.android/build-cache/c2e87a0ac8ef9f0bcfce5870489c6a906467f3f4/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/squidward/.android/build-cache/4f76ed06c5e46c75f9cd019d614a307c0b09bfa0/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /home/squidward/.android/build-cache/2ee7fc8a74e7a7d2666d2d5ecc321d21a1d3555e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/squidward/.android/build-cache/10d43c7477694ac8ce6245525bf79d32731eaa89/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/squidward/.android/build-cache/70eee7f77845c6a8342e12c8b6132469fff16008/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/squidward/.android/build-cache/bc012944f18daaac8c83ae401f06d5b404ff0401/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/squidward/.android/build-cache/62681fd33a3eba7eda80f27adea895a97e5e2585/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/squidward/.android/build-cache/7ccc487d36426d28e236b3277c10101cce418b5d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/squidward/.android/build-cache/c8d935742774035763bce093fcd82d87d3e0e630/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:16:9-43
+	android:largeHeap
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:19:9-33
+	android:theme
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:20:9-40
+activity#com.bitsplease.driber.driberandroid.MainPage
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:21:19-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.bitsplease.driber.driberandroid.PickServiceType
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:28:9-31:58
+	android:label
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:30:13-69
+	android:theme
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:29:13-44
+activity#com.bitsplease.driber.driberandroid.HireDriver
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:32:9-35:58
+	android:label
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:34:13-63
+	android:theme
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:33:13-39
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:37:9-39:70
+	android:value
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:39:13-68
+	android:name
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:38:13-58
+activity#com.bitsplease.driber.driberandroid.HiredDriverStatus
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:41:9-45:20
+	android:label
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:43:13-71
+	android:theme
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:42:13-46
+activity#com.bitsplease.driber.driberandroid.MainActivity
+ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:46:9-47:20
+	android:name
+		ADDED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml:46:19-47
+uses-sdk
+INJECTED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/squidward/.android/build-cache/8bdfd0c4769b105aee932afde8568aad449439ca/output/AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:design:25.1.1] /home/squidward/.android/build-cache/bcc6674c6011da088677a0826f6183f82676f975/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/squidward/.android/build-cache/8efb046c8bf3f54f77b0052f3c131302b739ee5e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/squidward/.android/build-cache/05e64810a126b4d24a10fb91ade34aba19c84fba/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/squidward/.android/build-cache/dc8282c7d95ff3105c6b7d32957247604db0f7a8/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /home/squidward/.android/build-cache/464a2a3952bcdfaea45ef00b4cc4d825dcd1ddf2/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] /home/squidward/.android/build-cache/96605d7129b13ec746903224fa8574d6d615edb6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/squidward/.android/build-cache/204061d13753ed00968cc8c598a567c73a309ab7/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/squidward/.android/build-cache/56151bd9b439fb3cc975010a341c2274dca4de3a/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/squidward/.android/build-cache/47c489d873ef4c0a8e2ac2d55bbd885fecad2c30/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/squidward/.android/build-cache/c2e87a0ac8ef9f0bcfce5870489c6a906467f3f4/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/squidward/.android/build-cache/4f76ed06c5e46c75f9cd019d614a307c0b09bfa0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /home/squidward/.android/build-cache/2ee7fc8a74e7a7d2666d2d5ecc321d21a1d3555e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/squidward/.android/build-cache/10d43c7477694ac8ce6245525bf79d32731eaa89/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/squidward/.android/build-cache/70eee7f77845c6a8342e12c8b6132469fff16008/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/squidward/.android/build-cache/bc012944f18daaac8c83ae401f06d5b404ff0401/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/squidward/.android/build-cache/62681fd33a3eba7eda80f27adea895a97e5e2585/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/squidward/.android/build-cache/7ccc487d36426d28e236b3277c10101cce418b5d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.volley:volley:1.0.0] /home/squidward/.android/build-cache/c8d935742774035763bce093fcd82d87d3e0e630/output/AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] /home/squidward/.android/build-cache/bcc6674c6011da088677a0826f6183f82676f975/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/squidward/.android/build-cache/47c489d873ef4c0a8e2ac2d55bbd885fecad2c30/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/squidward/.android/build-cache/47c489d873ef4c0a8e2ac2d55bbd885fecad2c30/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/squidward/.android/build-cache/47c489d873ef4c0a8e2ac2d55bbd885fecad2c30/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/squidward/.android/build-cache/47c489d873ef4c0a8e2ac2d55bbd885fecad2c30/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/squidward/.android/build-cache/4f76ed06c5e46c75f9cd019d614a307c0b09bfa0/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/squidward/.android/build-cache/4f76ed06c5e46c75f9cd019d614a307c0b09bfa0/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/squidward/.android/build-cache/4f76ed06c5e46c75f9cd019d614a307c0b09bfa0/output/AndroidManifest.xml:20:20-65

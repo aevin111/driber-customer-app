@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/D:\\Mae\\IT155\\Driber Final Build (No Design)\\Cust\\Build 09032017\\DriBerAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/C:\\Users\\Tine Palileo\\.android\\build-cache\\e3740623ac2942448ccc350a0d51431d8dcf520a\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/squidward/.android/build-cache/8efb046c8bf3f54f77b0052f3c131302b739ee5e/output/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

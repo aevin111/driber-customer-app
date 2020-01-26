@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/8bdfd0c4769b105aee932afde8568aad449439ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_1926f7be29770fb574ec2a54483e93291a93dc69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/c2e87a0ac8ef9f0bcfce5870489c6a906467f3f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_783306fed84070fbdebd4c1dc27995650279d84d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/bcc6674c6011da088677a0826f6183f82676f975/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_1acff4b3b3ac6a1d1dc96219839cda2f3ef100bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/464a2a3952bcdfaea45ef00b4cc4d825dcd1ddf2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_ce60c24d1ae09b4b1933f49979a624528ad15078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/10d43c7477694ac8ce6245525bf79d32731eaa89/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_05013a1202bbd4076b4a01d7c93ed7352d0ee391.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_c7f920d4fede8fd55dd9c8b5517c5d74e1f705bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_8736a90609b666f97b779fce6687b9ca21e42daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/70eee7f77845c6a8342e12c8b6132469fff16008/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_b5d4837e54aad2cf65d8d01510fc5a62568a6af4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/8efb046c8bf3f54f77b0052f3c131302b739ee5e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_80b02fcc78615301813fcaffce3cf731adc7bc06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/c8d935742774035763bce093fcd82d87d3e0e630/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_73e6f8bd0360e7df17e30da18d04b3304ba11c5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/bc012944f18daaac8c83ae401f06d5b404ff0401/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_21d4820fb370003521172886cdd4739d61a031d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/7ccc487d36426d28e236b3277c10101cce418b5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_db2bb1df74b6e252fd5df6816205b5e8eafcb780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/4f76ed06c5e46c75f9cd019d614a307c0b09bfa0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_b9f019347ff1e99588cf7e17b847b41d5f17e0e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/2ee7fc8a74e7a7d2666d2d5ecc321d21a1d3555e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_7d310f771b513dfede58c31282d8af0e5e650b83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/204061d13753ed00968cc8c598a567c73a309ab7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_9c3eac8eb50d398ce6d8497bd9e4f39b177318ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/96605d7129b13ec746903224fa8574d6d615edb6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_6d8e434cef748b4e558bc24a0223e8dc1ab491c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/dc8282c7d95ff3105c6b7d32957247604db0f7a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_1ce4475e73b8631f49bd28aacd557ffc05f7f4c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/47c489d873ef4c0a8e2ac2d55bbd885fecad2c30/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_548c0c476c18c6caaa76ac7e48693f76c8ce93c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/05e64810a126b4d24a10fb91ade34aba19c84fba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_25d9317607a99cac064130f6ebe5e038f0154d60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/56151bd9b439fb3cc975010a341c2274dca4de3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_977451fe5fca9fcb6e486d77b7eacdc7455bf49f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/squidward/.android/build-cache/62681fd33a3eba7eda80f27adea895a97e5e2585/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/squidward/Documents/DRIBER SOURCE/Driber Final Build (No Design)/Cust/Build 09032017/DriBerAndroid/app/build/intermediates/pre-dexed/debug/classes_db608f482e835f1ab9664a4a147df7364e247ec5.jar" />
+    </item>
+
+</items>
